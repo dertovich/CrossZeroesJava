@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class my_utils {
     public static int size = getSizeField();
 
+    // В разработке! Функция для определения размера карты
     public static int getSizeField() {
         int size;
         Scanner input = new Scanner(System.in);
